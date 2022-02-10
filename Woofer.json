@@ -1,5 +1,8 @@
 {
-  "settings": {
-  "isGameComplete": true
-  }
+  {
+    "url" : "hola"
+  },
+  {
+      "url" : "hola"
+    }
 }
