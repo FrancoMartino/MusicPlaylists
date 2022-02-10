@@ -1,10 +1,9 @@
 {
-  "data": [
-    {
-      "url" : "hola"
-    },
-    {
-      "url" : "chau"
-    }
-  ]
+    "data": [{
+            "url": "hola"
+        },
+        {
+            "url": "chau"
+        }
+    ]
 }
